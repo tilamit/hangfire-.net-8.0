@@ -10,7 +10,7 @@
 To demonstrate background job using Hangfire with .NET
 
 <p align="center">
-    <img src="https://i.ibb.co.com/hKGFxkh/Screenshot-2024-10-29-130319.png" alt="hangfire-.net-8.0" />
+    <img src="https://i.ibb.co.com/jR3npw9/Screenshot-2024-10-29-160548.png" alt="hangfire-.net-8.0" />
 </p>
 
  <h4>Image Ref: 
@@ -18,7 +18,6 @@ To demonstrate background job using Hangfire with .NET
       Hangfire
   </a>
  </h4>
-
 
 <p align="center">
     <img src="https://i.ibb.co.com/vw0rkZS/Screenshot-2024-10-29-135829.png" alt="hangfire-.net-8.0" />
@@ -108,8 +107,8 @@ It's pretty handy and you can install it using nuget package manager.
 
 
 Hangfire Dashboard             |
-:-------------------------:|:-------------------------:
-![](https://i.ibb.co.com/nR6ggkm/Screenshot-2024-10-29-142040.png)  |
+:----------------------------------------------------------------:
+![](https://i.ibb.co.com/nR6ggkm/Screenshot-2024-10-29-142040.png)
 
 ## Authors
 
