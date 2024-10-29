@@ -109,10 +109,6 @@ Hangfire Dashboard             |  Hangfire Dashboard -> Recurring Jobs
 :-------------------------:|:-------------------------:
 ![](https://i.ibb.co.com/nR6ggkm/Screenshot-2024-10-29-142040.png)  |  ![](https://i.ibb.co.com/jMBMxQX/Screenshot-2024-10-29-190321.png)
 
-Hangfire Dashboard             |
-:----------------------------------------------------------------:
-![](https://i.ibb.co.com/nR6ggkm/Screenshot-2024-10-29-142040.png)
-
 ## Authors
 
 * **Amit Kanti Barua** - *Remote Software Engineer* - [Amit Kanti Barua](https://github.com/tilamit) - *Built ReadME Template*
