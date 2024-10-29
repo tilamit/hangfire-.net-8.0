@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5BgmntVbjUI31J/g+uW2mkpfrnl+8C52i7tSmV9/hBc=",
+  "Source": "OurAppWithHangfire",
+  "BasePath": "_content/OurAppWithHangfire",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

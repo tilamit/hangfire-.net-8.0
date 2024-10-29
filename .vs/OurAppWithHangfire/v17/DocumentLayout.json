@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\repository\\customjobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:repository\\customjobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\ioc\\containerinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:ioc\\containerinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\services\\customjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:services\\customjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\interface\\icustomjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:interface\\icustomjobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\interface\\icustomjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:interface\\icustomjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|c:\\users\\hp\\source\\repos\\ourappwithhangfire\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6C4221-E725-4B4C-83E5-F759CA831883}|OurAppWithHangfire.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-29T06:53:41.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContainerInjector.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\IoC\\ContainerInjector.cs",
+              "RelativeDocumentMoniker": "IoC\\ContainerInjector.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\IoC\\ContainerInjector.cs",
+              "RelativeToolTip": "IoC\\ContainerInjector.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:20:34.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:51:34.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "Controllers\\JobsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:17:52.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACsAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:35:23.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomJobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Repository\\CustomJobRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomJobRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Repository\\CustomJobRepository.cs",
+              "RelativeToolTip": "Repository\\CustomJobRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:00:27.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:29:22.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomJobService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Services\\CustomJobService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomJobService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Services\\CustomJobService.cs",
+              "RelativeToolTip": "Services\\CustomJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:08:29.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomJobService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Interface\\ICustomJobService.cs",
+              "RelativeDocumentMoniker": "Interface\\ICustomJobService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Interface\\ICustomJobService.cs",
+              "RelativeToolTip": "Interface\\ICustomJobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:28:37.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomJob.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Interface\\ICustomJob.cs",
+              "RelativeDocumentMoniker": "Interface\\ICustomJob.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\Interface\\ICustomJob.cs",
+              "RelativeToolTip": "Interface\\ICustomJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:43:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\OurAppWithHangfire\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:26:30.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 885,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
