@@ -105,6 +105,9 @@ Hangfire is the one that takes care of the scheduled job in the background. Afte
 
 It's pretty handy and you can install it using nuget package manager.
 
+Hangfire Dashboard             |  Hangfire Dashboard -> Recurring Jobs
+:-------------------------:|:-------------------------:
+![](https://i.ibb.co.com/nR6ggkm/Screenshot-2024-10-29-142040.png)  |  ![](https://i.ibb.co.com/jMBMxQX/Screenshot-2024-10-29-190321.png)
 
 Hangfire Dashboard             |
 :----------------------------------------------------------------:
